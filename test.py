@@ -1,7 +1,10 @@
 import requests
 import json
 
-api_key = '36a0c1c1f8abf0d9bbfe9dbab5edc06d'
+# get a free key on https://the-odds-api.com/
+
+
+api_key = 'enter_your_free_key'
 
 file = open("odds.json", "w")
 
